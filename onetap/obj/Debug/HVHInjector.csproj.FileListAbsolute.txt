@@ -1,0 +1,10 @@
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\bin\Debug\onetap.exe.config
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\bin\Debug\onetap.exe
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\bin\Debug\onetap.pdb
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\obj\Debug\HVHInjector.csprojAssemblyReference.cache
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\obj\Debug\onetap.Main.resources
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\obj\Debug\onetap.Properties.Resources.resources
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\obj\Debug\HVHInjector.csproj.GenerateResource.cache
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\obj\Debug\HVHInjector.csproj.CoreCompileInputs.cache
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\obj\Debug\onetap.exe
+C:\Users\xtysp\Desktop\HVHInjector-master - Copy\onetap\obj\Debug\onetap.pdb
